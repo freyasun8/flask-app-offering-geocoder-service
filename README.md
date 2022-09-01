@@ -7,5 +7,5 @@ This app lets user upload csv files containing addresses. After submitting, this
 * Request
 * Datetime
 # How to run the program
-Step 1: Download app.py
-Step 2: Go to http://127.0.0.1:5000
+## Step 1: Download app.py
+## Step 2: Go to http://127.0.0.1:5000
